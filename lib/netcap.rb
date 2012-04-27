@@ -5,6 +5,7 @@ require './netcap/pcap_extension.rb'
 require './netcap/packet_scan'
 require './netcap/watch_list'
 require './netcap/net_http'
+require 'sqlite3'
 
 count = 1
 
