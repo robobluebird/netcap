@@ -1,8 +1,8 @@
 require 'json'
 require 'rest-client'
 class NetHttp
-  ENDPOINT = "safehaus.heroku.com"
-  SUBDOMAIN = "zach"
+  ENDPOINT = ""
+  SUBDOMAIN = ""
   ACCOUNT_ID = "c79bc5be-1aac-11e1-b052-001b63fffe8e"
   DEVICE_ID = "net123"
 
