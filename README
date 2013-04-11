@@ -1,3 +1,9 @@
+== Netcap
+
+Project status: Inactive, unfinished
+
 Some network capture code using the ruby-pcap library!
 
 Watches for HTTP traffic and a few other cases. It is designed to report the results to a web server that persists the data.
+
+The file pcap_extension.rb contains my additions to the Pcap module.
